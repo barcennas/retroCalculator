@@ -4,8 +4,6 @@ Source: iOS 10 & Swift 3: From Beginner to Paid Professional (Udemy)
 
 Retro carculator is a basic calculator with a retro aspect
 
-
-
 Retro Calculator Uses:
 
 * Auto Layout
@@ -13,4 +11,4 @@ Retro Calculator Uses:
 * Tags
 * AVAudioPlayer
 
-
+![GitHub Logo](screenShot.png)
